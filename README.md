@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 :star: jQuery  <br>
 :star: Bootstrap  <br>
 :star: AJAX  <br>
+:star: NodeJS <br>
+:star: AWS <br>
 
 <h3>Links to some of my works</h3>
 ------------------------------------------------------------------------------------------------------<br>
