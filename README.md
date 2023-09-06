@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1>My name is Ezequiel Puglisi, I'm Web Developer.</h1>
 
-<p>I currently work at Godixital as a Web Developer and as a Javascript Tutor at Coderhouse</p> 
+<p>I currently work at nular. as a Full stack Developer</p> 
 
 <h3>I handle the following technologies</h3>
 
@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 :star: CSS  <br>
 :star: JavaScript  <br>
 :star: React JS  <br>
-:star: jQuery  <br>
-:star: Bootstrap  <br>
 :star: AJAX  <br>
 :star: NodeJS <br>
 :star: AWS <br>
