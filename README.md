@@ -39,9 +39,9 @@ Project made in Javascript course. Technologies used: HTML, CSS, bootstrap, jque
 ------------------------------------------------------------------------------------------------------<br>
 
 ------------------------------------------------------------------------------------------------------<br>
-:video_game: <a href="https://ezepuglisi.github.io/Ahorcadus/">Ahorcadus</a>
+:video_game: <a href="https://ahorcadus-v2.vercel.app/">Ahorcadus</a>
 <p>
-A game made with Javascript, simulates the traditional "hangman" game
+A game made with React, Javascript and Tailwind simulates the traditional "hangman" game
 </p>
 ------------------------------------------------------------------------------------------------------<br>
 
@@ -51,3 +51,12 @@ A game made with Javascript, simulates the traditional "hangman" game
 Landing web made with html, css and Javascript. The form is not functional, since it does not use an internal agency script.
 </p>
 ------------------------------------------------------------------------------------------------------<br>
+
+------------------------------------------------------------------------------------------------------<br>
+:earth_americas: <a href="https://indumentaria-zonaoeste.vercel.app/">Indumentaria zona oeste</a>
+<p>
+Project done for an online sneakers store. I used react.js, Chakra UI and React context.
+</p>
+------------------------------------------------------------------------------------------------------<br>
+
+
