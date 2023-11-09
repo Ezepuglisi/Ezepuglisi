@@ -24,11 +24,17 @@ Here are some ideas to get you started:
 
 :star: HTML <br>
 :star: CSS  <br>
+:star: Chakra UI <br>
+:star: Tailwind CSS <br>
+:star: Bootstrap CSS <br>
 :star: JavaScript  <br>
+:star: TypeScript <br>
 :star: React JS  <br>
-:star: AJAX  <br>
-:star: NodeJS <br>
+:star: Next JS <br>
+:star: Node JS <br>
 :star: AWS <br>
+:star: MongoDB <br>
+:star: Firebase <br>
 
 <h3>Links to some of my works</h3>
 ------------------------------------------------------------------------------------------------------<br>
