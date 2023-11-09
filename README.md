@@ -59,7 +59,7 @@ Landing web made with html, css and Javascript. The form is not functional, sinc
 ------------------------------------------------------------------------------------------------------<br>
 
 ------------------------------------------------------------------------------------------------------<br>
-👟: <a href="https://indumentaria-zonaoeste.vercel.app/">Indumentaria zona oeste</a>
+👟 <a href="https://indumentaria-zonaoeste.vercel.app/">Indumentaria zona oeste</a>
 <p>
 Project done for an online sneakers store. I used react.js, Chakra UI and React context.
 </p>
